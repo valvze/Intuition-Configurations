@@ -1,6 +1,6 @@
 [
   {
-    "title":"Learn Something",
+    "title":"Educate Yourself",
     "provider":"youtube",
     "image": "https://unsplash.it/720/480?image=1073",
     "arguments":[
@@ -8,7 +8,7 @@
     ]
   },
   {
-    "title":"Inspiring Stories",
+    "title":"Interesting Films",
     "provider":"youtube",
     "image":"https://unsplash.it/720/480?image=998",
     "arguments":[
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "title":"Look Good, Feel Good",
+    "title":"Fashion Media",
     "provider":"youtube",
     "image":"https://unsplash.it/720/480?image=856",
     "arguments":[
@@ -24,7 +24,7 @@
     ]
   },
   {
-    "title":"Game Overload",
+    "title":"Game Videos",
     "provider":"youtube",
     "image":"https://unsplash.it/720/480?image=96",
     "arguments":[
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "title":"Hot Trailers",
+    "title":"Movie Trailers",
     "provider":"youtube",
     "image":"https://unsplash.it/720/480?image=967",
     "arguments":[
